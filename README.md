@@ -1,5 +1,5 @@
 ## datascitoolbox
 ###here's a list
-*one
-*two
-*three
+* one
+* two
+* three
